@@ -1,0 +1,3 @@
+[submodule "samcoin"]
+	path = samcoin
+	url = https://github.com/Yurifag/samcoin
